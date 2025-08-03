@@ -1,0 +1,6 @@
+StudentID,Gender,StudyHours,Attendance (%),MathScore,ScienceScore,EnglishScore,Passed
+1,Female,4.5,90,78,85,74,Yes
+2,Male,3.0,80,65,70,68,Yes
+3,Female,6.1,95,89,92,85,Yes
+4,Male,2.0,60,45,50,55,No
+5,Female,5.0,88,83,88,81,Yes
